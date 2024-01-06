@@ -8,5 +8,5 @@ for i in range(0,len(text)):
     except IndexError:
         print("Index out of range")
     
-    
+pico = "picoCTF{" + pico + "}"
 print(pico)
